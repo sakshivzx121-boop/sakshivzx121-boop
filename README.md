@@ -13,26 +13,14 @@ About Me
 🌱 Focused on improving my coding and problem-solving skills.
 
 Technical Skills
+## Technical Skills
 
-Category
-
-Technologies
-
-Languages
-
-Python (Beginner), Bash
-
-Tools
-
-Git, GitHub, VS Code, Linux Terminal, Postman
-
-Web Development
-
-HTML, CSS
-
-Concepts
-
-File Systems, Process Management, REST APIs, Git Workflows, Markdown
+| Category | Technologies |
+|---|---|
+| Programming Languages | Python (Beginner), Bash |
+| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Web Development | HTML, CSS |
+| Concepts | File Systems, Process Management, REST APIs, Git Workflows, Markdown |
 
 Featured Projects
 
